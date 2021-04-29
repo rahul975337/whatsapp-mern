@@ -24,7 +24,7 @@ function Chats() {
         </div>
       </div>
       <div className="chat_body">
-        
+
       </div>
     </div>
   );
